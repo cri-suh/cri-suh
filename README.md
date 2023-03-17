@@ -6,7 +6,7 @@
 
 [![Cristiano's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cri-suh&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![cristiano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cri-suh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cri-suh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu utilizo
 
