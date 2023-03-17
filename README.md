@@ -4,17 +4,9 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cri_sg89/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003948970180)
 
-<a
-   href="https://github.com/cri-suh"
-   target="_blank"
-   rel="noreferrer">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cri-suh&layout=compact&langs_count=10&hide=Rich+Text+Format&hide_border=true&title_color=0366d6&text_color=777777&icon_color=959da5&bg_color=ffffff00"
-        width="70%"
-        height=""
-        alt="Lenguages"
-    />
-</a>
+[![Cristiano's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cri-suh&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![cristiano's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cri-suh)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu utilizo
 
