@@ -16,4 +16,4 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div></br>
 
-A tecnologia mudou o mundo e estou animado para fazer parte de projetos que transforme a vida de pessoas, esse é meu objetivo.
+Estou em uma jornada constante de aprendizado para me tornar um Desenvolvedor front-end. Meu objetivo é criar soluções que façam a diferença na vida dos usuários.
