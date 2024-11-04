@@ -1,8 +1,7 @@
-### Ola 🌎! Sou Cristiano Silva! ✌️
+### Ola 🌎! ✌️ Me chamo Cristiano Silva, Programador Front End 
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-silva-745815139/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cri_sg89/)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003948970180)
 
 [![Cristiano's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cri-suh&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
